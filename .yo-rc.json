@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.blskye.october",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "october",
+    "packageName": "com.blskye.october",
+    "packageFolder": "com/blskye/october",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "redis",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWM1OTI5Yjg4OWFmMzhkNGY4YTQ0ZTE5YmNiZjY2ZTBlYzJmNGJiNjBiZjkyOTM1YmNhOWZiNzBkNzdjMzFlY2FjNzA5YWM3Yjg1NTgyZjVmMWQ0ZTlkNzBjMjdlOGRiMGVjZDM5ODU3MmE2ZTBmMmQ0NGY2NzI3MWRmMjgxOGQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1615130698500,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn", "en"],
+    "blueprints": []
+  }
+}
